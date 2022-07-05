@@ -1,0 +1,31 @@
+[
+    {
+        "img" :"/assests/profile.jpg" ,
+         "small":"Bobby Brown",
+         "para":"Najeel verwick is a common friend",
+        "icon1":"fa fa-user",
+        "icon2":"fa fa-user"
+
+    },
+    {
+        "img" :"./assests/avatar1.png" ,
+        "small":"Peter Manny ",
+        "para":"Lorem ipsum Gerum ",
+       "icon1":"fa fa-user" 
+
+    },
+    {
+        "img" :"./assests/publish.jpg" ,
+        "small":"Francis",
+        "para":"Peter is a common friend",
+       "icon1":"fa fa-tag" 
+
+    },
+    {
+        "img" :"./assests/profile.jpg" ,
+        "small":"Bob Peter",
+        "para":"Najeelis a common friend",
+       "icon1":"fa-fa-user" 
+
+    }
+]

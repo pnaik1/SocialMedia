@@ -1,0 +1,35 @@
+.explore {
+    margin-top: 57px;
+    height:1500px;
+ 
+}
+.explore1{
+    padding:2% 15%;
+    display: flex;
+    justify-content: space-between;
+}
+.row {
+    width:100%;
+ display: flex;
+align-items: center;
+justify-content: center;
+}
+.col{
+   cursor: pointer;
+   /* margin-right:20px;*/
+    padding: 15%;
+    border-radius: 20px;
+}
+.col:hover{
+    background-color:#F8F8F8 ;
+}
+.spacing {
+    width:150%;
+}
+.para {
+    text-align: center;
+}
+.imageIcon{
+    width:5%;
+    border-radius: 50%;
+}

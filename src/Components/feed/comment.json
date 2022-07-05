@@ -1,0 +1,34 @@
+[
+    {
+        "img" :"/assests/daniel.jpg" ,
+         "para":"David Kim",
+         "small":"30minutes",
+        "para1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempo incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat."
+        ,"num":2
+    },
+    {
+        "img" :"./assests/david.jpg" ,
+       
+        "para":"Lorem ipsum Gerum ",
+        "small":"6 minutes",
+       "para1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempo incididunt ut labore et dolore magna aliqua. Exercitation ullamco laboris consequat." 
+    ,"num":5
+    },
+    {
+        "img" :"./assests/elise.jpg" ,
+        "para":"Peter kem",
+        "small":"40 minutes ago",
+        "para1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempo incididunt ut labore et dolore magna aliqua. Exercitation ullamco laboris consequat." 
+    ,"num":67
+       
+
+    },
+    {
+        "img" :"./assests/stella.jpg" ,
+        "para":"David Kim",
+        "small":"70 minutes",
+        "para1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempo incididunt ut labore et dolore magna aliqua. Exercitation ullamco laboris consequat." 
+        ,"num":80
+
+    }
+]

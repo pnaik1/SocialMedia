@@ -1,0 +1,30 @@
+[
+    {
+        "img" :"/assests/daniel.jpg" ,
+         "para":"David Kim commented on your post.",
+         "small":"30minutes",
+        "icon1":"fa fa-comment-o"
+
+    },
+    {
+        "img" :"./assests/david.jpg" ,
+        "small":"28 minutes",
+        "para":"Lorem ipsum Gerum ",
+       "icon1":"fa fa-heart" 
+
+    },
+    {
+        "img" :"./assests/elise.jpg" ,
+        "small":"40 minutes ago",
+        "para":"Peter is a common friend",
+       "icon1":"fa fa-video-camera" 
+
+    },
+    {
+        "img" :"./assests/stella.jpg" ,
+        "small":"70 minutes",
+        "para":"Najeelis a common friend",
+       "icon1":"fa fa-file-image-o" 
+
+    }
+]

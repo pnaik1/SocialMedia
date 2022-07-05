@@ -1,0 +1,19 @@
+.ref {
+    min-width: 40%;
+     margin:5% 9%;
+    
+    
+    }
+    @media only screen and (max-width:1000px){
+      .ref {
+        margin:3% 1%;
+      }
+    }
+    #light {
+      background-color: #E8E8E8 !important;
+    }
+    #dark {
+      background-color: black !important;
+    
+    }
+  

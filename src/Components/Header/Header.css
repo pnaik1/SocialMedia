@@ -1,0 +1,165 @@
+.header{
+    padding: 4px 20px;
+    display: flex;
+    justify-content: space-between;
+    position:sticky;
+    background-color: white;
+    z-index: 100;
+    width: auto;
+    top:0;
+    box-shadow: 0px 5px 8px -9px rgba(0,0,0,0.75);
+
+}
+.Cart1{
+position: relative;
+top:-17px;
+}
+.active{
+    color:white;
+ height:24px;
+    background-color: #2e81f4;
+}
+.dark {
+    background-color: black !important;
+}
+.light {
+    background-color: white !important;
+}
+.indicator{
+    display: block;
+    position: relative;
+    top: -38px;
+    left: 20px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    background: #41d6c3;
+}
+.profile{
+    border-radius: 50%;
+    width:60px;
+    margin-right:-20px;
+    margin-left: 10px;
+
+}
+.profileSection{
+    display:block;
+    width: 10rem;
+    position: absolute;
+    top: 67px;
+   margin-left: -50px;
+    list-style: none;
+    text-align: start;
+    height:5%;
+    background-color: white;
+    box-shadow: 0px 5px 8px -9px rgba(0,0,0,0.75);
+
+}
+.header_left{
+    color:#999;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:0 3%;
+    
+}
+.logo{
+  
+     height: 10px;
+    cursor: pointer;
+   
+}
+.head,.head-red{
+   margin:5%;
+   border-radius:4px;
+   padding: 4%;
+}
+.head:hover{
+    background-color: #2e81f4;
+}
+.head-red:hover {
+    background-color: red;
+
+}
+.head-red:hover > .logo {
+    fill:white;
+}
+.head:hover > .logo{
+    fill:white;
+}
+.header_input{
+    display: flex;
+    align-items: center;
+    background-color:#eff2f5;
+    padding: 10px;
+    margin-right:20px;
+    border-radius: 999px;
+}
+
+.header_left > img{
+    height: 40px;
+}
+
+.header_input > input{
+    border: none;
+    background-color: transparent;
+    outline-width: 0;
+}
+
+.header_center{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.header_option > .MuiSvgIcon-root{
+    color:gray;
+}
+
+.header_option:hover > .MuiSvgIcon-root{
+    color:#2e81f4;
+}
+
+
+.header_option--active > .MuiSvgIcon-root{
+    color: #2e81f4;
+}
+
+
+.header_option--active{
+    border-bottom: 4px solid #2e81f4;
+}
+
+.header_option{
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    cursor: pointer;
+}
+
+.header_option:hover{
+    background-color: #eff2f5;
+    border-radius: 10px;
+    align-items: center;
+    padding: 0 30px;
+    border-bottom: 0;
+}
+
+.header_info{
+    display: flex;
+    align-items: center;
+}
+
+.header_info > h4{
+    margin-left: 10px;
+}
+
+.header_right{
+    color:#999;
+    display: flex;
+margin-left:auto;
+justify-content: space-between;
+
+    
+}

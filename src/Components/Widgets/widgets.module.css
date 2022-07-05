@@ -1,0 +1,26 @@
+.active {
+    background-color: white;
+  
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+     border-radius: 10px;
+
+}
+.heading {
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.story {
+  margin:8%;
+}
+.content {   
+  margin-top:-18px;
+  padding-right:2%;
+ 
+}
+h5 {
+    margin-bottom: 2%;
+}
+.img11{
+  margin:2%;
+}
