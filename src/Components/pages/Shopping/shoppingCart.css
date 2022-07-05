@@ -1,0 +1,54 @@
+.shopping{
+    background-color: #E8E8E8;
+    margin-top:60px;
+    padding:6%
+}
+.icon-image{
+    width:30%;
+    border-radius: 50px;
+    margin:4%;
+}
+.products{
+ 
+  margin: 10%;
+}
+.ProductList{
+ display: block;
+ 
+
+}
+.text {
+ position: relative;
+ left:50%;
+top:-15px;
+    width:25%;
+    color:black;
+    
+}
+.product1{
+    margin:2%;
+    
+    
+}
+
+.productContainer{
+    width:100%;
+ display: flex;
+align-items: center;
+justify-content: center;
+}
+.ShoppingHeader {
+display: flex;
+justify-content:space-around;
+}
+.ShoppingContent{
+    display: flex;
+}
+.shoppingRight{
+  margin-top: 80px;
+  margin-right:50px;
+  margin-left:50px
+}
+.ShoppingMiddle{
+    margin-right:5%;
+}

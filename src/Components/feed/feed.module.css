@@ -1,0 +1,124 @@
+.feed {
+max-width: 95%;
+margin:auto ;
+}
+.dark {
+    background-color: grey !important;
+    color:white;
+}
+.light {
+    background:white;
+    color:rgb(155, 153, 153);
+}
+.unorder {padding: 0;
+  
+    border-radius: 10%;
+   padding-left: -10px;
+    display: flex;
+justify-content: center;
+
+}
+.image1{
+    border-radius: 5px;
+   width:20%;
+}
+.active {
+   
+    margin-top:-15px;
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom:8%;
+    
+}
+.list {
+    display: flex;
+    padding-left: -10px;
+padding:2% 3%;
+color:rgba(17, 15, 15, 0.678);
+    list-style: none;
+    text-decoration: none;
+}
+.logo {
+  
+    padding-right: 4px;
+
+}
+.horizon {
+    border:1px solid 	#DCDCDC;
+    margin-bottom: 2%;
+    margin-top:0.5%;
+}
+.bottom {
+    display: flex;
+    padding:0 4px;
+    
+    margin:1.5%;
+    border-radius: 18px;
+    background-color: rgb(236, 234, 234);
+}
+.para {
+    margin-top:7px;
+    padding-right: 10px;
+}
+.text {
+    display: flex;
+ margin-top:8%;
+ font-size: 130%;
+}
+.bottomMain {
+    display: flex;
+    padding-bottom: 1%;
+  
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+  }
+  .comment1 {
+      display: flex;
+    margin-left:65%;
+
+  }
+  .comment2 {
+      padding:5%;
+      z-index: 1;
+      position: relative;
+      border-radius: 30px;
+     top:-25px;
+      margin-right:12px;
+      background-color: rgb(15, 172, 219);
+  }
+  .comment3{
+      display:flex;
+      margin:2%;
+      padding: 2%;
+  }
+  .like {
+      padding: "2%";
+  }
+  .replyLike{
+  display: flex;
+padding-left: 5%;
+  }
+
+  .image2{
+      margin-top: -15px;
+      width:7.5%;
+      height: 110%;
+      border-radius: 50%;
+      border:1px solid #f8f8f871;
+  }
+  .bottom4{
+      display: flex;
+      margin-top: -2%;
+      justify-content: space-between;
+  }
+  .commentSection{
+    display:"flex";
+    justify-content:"space-between";
+ 
+  }
+  .img11{
+      margin:2%;
+  }
